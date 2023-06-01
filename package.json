@@ -1,11 +1,39 @@
 {
-    "name": "iu5_components",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.ts",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC"
+  "name": "iu5_components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liza Brednya",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizabrednya/iu5_components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lizabrednya/iu5_components/issues"
+  },
+  "homepage": "https://github.com/lizabrednya/iu5_components#readme",
+  "peerDependencies": {
+    "react": "^16.6.1",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.12.3",
+    "@mui/x-data-grid": "^6.3.1",
+    "@mui/x-data-grid-generator": "^6.3.1",
+    "@mui/x-date-pickers": "^6.3.1",
+    "mui-chips-input": "^2.0.1",
+    "mui-datatables": "^4.3.0"
   }
+}
