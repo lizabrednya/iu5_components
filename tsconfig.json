@@ -4,6 +4,7 @@
       "strict": true,
       "skipLibCheck": true,
       "jsx": "react",
+      "target": "ES6",
       "module": "ESNext",
       "declaration": true,
       "declarationDir": "types",
